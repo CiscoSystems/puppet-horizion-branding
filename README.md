@@ -12,3 +12,4 @@ Add
 
 To your horizon "node" definition in your puppet site.pp file.
 
+
